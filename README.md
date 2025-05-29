@@ -30,7 +30,7 @@ ShareX — это бесплатная программа с открытым и
 
 ## 📌 Как пользоваться
 
-1. Скачайте установщик: [`Install ShareX.exe`](installer/Install%20ShareX.exe)
+1. Скачайте установщик: [`Install ShareX.exe`](https://github.com/softwaremaster-ru/ShareX-installer/releases/download/ShareXInstaller/ShareX-17.1.0-setup.exe)
 2. Запустите файл
 3. Следуйте простым шагам мастера установки
 
